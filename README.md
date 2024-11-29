@@ -1,4 +1,3 @@
-# README: Circular AI Game Implementation
 
 ## Overview
 This project is a Java-based game developed using `javax.swing` for creating a simple graphical interface. The game features a player controlled by keyboard input and enemies that exhibit circular AI behavior, attempting to surround and trap the player. The game includes a timer and obstacles on the map to increase the challenge.
